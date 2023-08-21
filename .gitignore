@@ -1,3 +1,5 @@
 # virtual environment 
 bix-demo/
 __pycache__/
+
+.github/workflows/CODEOWNERS
