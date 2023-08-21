@@ -1,0 +1,5 @@
+# Code Owners for a directory
+.github/workflows/* @andrelsjunior
+
+# All HTML files
+arquivos_importantes/* @marconirrodrigues
